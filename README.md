@@ -34,5 +34,4 @@
 
 
 # Running tests
-	When inside the project directory, run nosetests in the terminal. 
-	Your code should work perfectly.
+When inside the project directory, run `nosetests` in the terminal. Your code should work perfectly.
